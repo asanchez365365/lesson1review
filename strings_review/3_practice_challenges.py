@@ -1,5 +1,5 @@
 """
-Bell Ringer — Variables & f-Strings
+— Variables & f-Strings
 -----------------------------------
 1. Find 3 objects around you and create variables from them.
 2. Use an f-string to print a sentence that includes all 3 variables.

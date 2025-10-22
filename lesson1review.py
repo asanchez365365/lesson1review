@@ -12,8 +12,8 @@ distance = 5.5
 #Part 2 – Predict the Output
 
 #Without running the code, predict what each line will print:
-print(f"Hello {first_name}")
-print(f"You like {food}")
+print(f"Hello {first_name}") # for example: Hello Bro
+print(f"You like {food}") # for example: You like pizza
 print(f"Your email is: {email}")
 print(f"You are {age} years old")
 print(f"You are buying {quantity} items")
